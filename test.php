@@ -1,3 +1,3 @@
 <?php
 
-echo 'CUma test mas bro, klik untuk <a href="index.php">Kembali</a>';
+echo 'CUma test mas bro, klik untuk <a href="index.php">Kembali</a>'. Terima kasih.;
